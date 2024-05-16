@@ -10,7 +10,7 @@
   <li>
     <p dir="auto">
       University Work: 
-      <a href=https://github.com/joegrimsonc/joegrimsonc/blob/main/uni_index.md" rel="nofollow">here</a>
+      <a href="https://github.com/joegrimsonc/joegrimsonc/blob/main/uni_index.md" rel="nofollow">here</a>
     </p>
   </li>
 
