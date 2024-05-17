@@ -1,4 +1,4 @@
-# My University Work Archive
+# My University Work
 
 This is an index for the work that I've produced throughout my time at Abertay University. All of the projects/assignments, organized by year and semester, can be found below.
 
@@ -100,6 +100,11 @@ NOTE: All the work will be retrieved and sorted in time, but 3rd and 4th year wo
 #### CMP314- Computer Networking 2
 
 - TBA
+- Grade: A
+- Description: This module introduces the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management.
+- Coursework:
+    - Unit 1 (100%): A report on Acme. Inc's network, including a detailed network diagram/topography, subnets in use, evaluating security weaknesses (via practical work) and a critical evaluation of network design. Acme. Inc's network was provided via a virtual machine.
+        - The report from this unit can be found [here](https://github.com/joegrimsonc/uni_work/blob/main/2001621_CMP314_U1.pdf).
 
 ---
 #### CMP319- Web Application Penetration Testing
