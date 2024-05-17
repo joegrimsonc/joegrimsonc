@@ -99,7 +99,6 @@ NOTE: All the work will be retrieved and sorted in time, but 3rd and 4th year wo
 ---
 #### CMP314- Computer Networking 2
 
-- TBA
 - Grade: A
 - Description: This module introduces the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management.
 - Coursework:
@@ -109,7 +108,11 @@ NOTE: All the work will be retrieved and sorted in time, but 3rd and 4th year wo
 ---
 #### CMP319- Web Application Penetration Testing
 
-- TBA
+- Grade: A
+- Description: The aim of this assessment is to conduct a comprehensive web application penetration test of a website then produce a document explaining your methodology, findings, and evaluate the process. The assessment was was black box, coming from the perspective of an attacker who had a valid account on the web application. The simulated attack was to target the web application only (i.e not the operating system).
+- Coursework:
+    - Unit 1 (100%): A report on the completed web application penetration test, so that the fictional owner of the website could improve security based on recommendations and that other professionals could re-create the work based on practical documentation.
+        - The report from this unit can be found [here](https://github.com/joegrimsonc/uni_work/blob/main/2001621_CMP319_U1.pdf).  
 
 ---
 ### <u>Semester 2:</u>
