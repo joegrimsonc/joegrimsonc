@@ -155,7 +155,7 @@ NOTE: All the work will be retrieved and sorted in time, but 3rd and 4th year wo
 - Coursework:
     - Unit 1 (30%): A set of 3 10 mark quizzes.
     - Unit 2 (70%): The main work for this module, where the brief was to implement secure IoT and cloud connections in a creative mini- project. The only stipulations for the project were that it needed to be secure, include an AWS component, userspace program (the UI or program for some functionality of the project) and a LKM driver for a Raspberry Pi. My project displayed the weather in Edinburgh, by recording it every hour from OpenWeather. The user could then view this information on an AWS website. Software allowed for connection to AWS, and the information passed to the RPi allowed an LKM to set LED's on the RPi based on what the last hourly weather record had been.
-        - The report for this project can be found [here](https://github.com/joegrimsonc/uni_work/blob/main/2001621_CMP408_U2.pdf)
+        - The report for this project can be found [here](https://github.com/joegrimsonc/uni_work/blob/main/2001621_CMP408_U2.pdf).
 
 ---
 #### CMP416- Advanced Digital Forensics
