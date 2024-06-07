@@ -135,7 +135,11 @@ NOTE: All the work will be retrieved and sorted in time, but 3rd and 4th year wo
 ---
 #### CMP320- Advanced Ethical Hacking
 
-- TBA
+- Grade: A
+- Description: A module focused on "personal research and experimentation", including malware analysis and scripting, within the optics of ethical hacking.
+- Coursework:
+    - Unit 1 (30%): A report on a malware sample using malware analysis techniques, investigating the malicious payload using a variety of static and dynamic techniques with the aim of identifying the malware's characteristics and function. The sample I chose to investigate turned out to be a component of the WannaCry malware.
+    - Unit 2 (70%): Implement a Python script to perform some function falling into the area of a ethical hacking tool; I chose to implement a basic network scanner.
 
 ---
 ## Year 4: 2023-2024
@@ -146,7 +150,12 @@ NOTE: All the work will be retrieved and sorted in time, but 3rd and 4th year wo
 ---
 #### CMP408- IoT and Cloud Secure Development
 
-- TBA
+- Grade: A+
+- Description: A near entirely practical based module, with the aim of implementing a secure network with 3 components: cloud (AWS), software (UI/LKM driver) and hardware (Raspberry Pi with LKM driver for a breadboard circuit). Another part of the module included quizzes to test understanding of the Linux OS and AWS functionality.
+- Coursework:
+    - Unit 1 (30%): A set of 3 10 mark quizzes.
+    - Unit 2 (70%): The main work for this module, where the brief was to implement secure IoT and cloud connections in a creative mini- project. The only stipulations for the project were that it needed to be secure, include an AWS component, userspace program (the UI or program for some functionality of the project) and a LKM driver for a Raspberry Pi. My project displayed the weather in Edinburgh, by recording it every hour from OpenWeather. The user could then view this information on an AWS website. Software allowed for connection to AWS, and the information passed to the RPi allowed an LKM to set LED's on the RPi based on what the last hourly weather record had been.
+        - The report for this project can be found [here](https://github.com/joegrimsonc/uni_work/blob/main/2001621_CMP408_U2.pdf)
 
 ---
 #### CMP416- Advanced Digital Forensics
